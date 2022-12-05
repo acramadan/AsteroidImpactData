@@ -5,3 +5,5 @@ scikit-learn
 tpot
 seaborn
 xgboost
+voila
+ipywidgets
