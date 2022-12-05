@@ -9,5 +9,3 @@ protobuf
 streamlit
 seaborn
 xgboost
-subprocess
-warnings
